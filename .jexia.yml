@@ -1,0 +1,5 @@
+language: golang
+port: 8080
+run:
+ - go build
+ - ./sample-go-http
